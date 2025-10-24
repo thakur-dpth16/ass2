@@ -1,3 +1,2 @@
 hii.
-dpth here 25
-test
+test ok all done
