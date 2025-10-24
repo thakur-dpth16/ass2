@@ -1,4 +1,2 @@
 hii.
-test ok all done
-changing 
-itd ok
+test ok done .
